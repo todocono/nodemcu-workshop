@@ -1,8 +1,8 @@
-/* Example 8
+/* Example nodemcu workshop - breathe
   by Rodolfo Cossovich http://rudi.plobot.com
   This example code is in the public domain.
 
-  LED connected to D5, D6 & D7
+  RGB LED connected to D5, D6 & D7
 */
 
 
