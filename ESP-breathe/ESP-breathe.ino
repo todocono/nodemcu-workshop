@@ -2,7 +2,7 @@
   by Rodolfo Cossovich http://rudi.plobot.com
   This example code is in the public domain.
 
-  LED connected 
+  LED connected to D5, D6 & D7
 */
 
 
